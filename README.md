@@ -110,4 +110,4 @@ Dimensão criada para análise temporal:
 
 ---
 
-![Diagrama Star Schema](star_schema.svg)
+![Diagrama Star Schema](star_schema.png)
